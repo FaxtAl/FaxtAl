@@ -1,10 +1,6 @@
 <h1 align="center">Hola, soy FaxtAl </h1>
 
 <p align="center">
-Estudiante de la Tecnicatura en Programación y desarrollador Full Stack en formación.
-</p>
-
-<p align="center">
 Actualmente estoy aprendiendo desarrollo Frontend y Backend, y creando proyectos para seguir mejorando mis conocimientos.
 </p>
 
