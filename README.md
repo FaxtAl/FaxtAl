@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2FF7&height=220&section=header&text=FaxtAl&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20en%20formación&descAlignY=58&descSize=20" alt="FaxtAl" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2FF7&height=220&section=header&text=FaxtAl&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n&descAlignY=58&descSize=20" alt="FaxtAl" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/FaxtAl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Tecnicatura+en+Programación;Desarrollo+web+Frontend+y+Backend;Proyectos%3A+DimensionTres+y+S.E.R" alt="Texto animado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Tecnicatura+en+Programaci%C3%B3n;Desarrollo+web+Frontend+y+Backend;Proyectos%3A+DimensionTres+y+S.E.R" alt="Texto animado">
   </a>
 </p>
 
