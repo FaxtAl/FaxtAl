@@ -18,8 +18,6 @@ Actualmente estoy aprendiendo desarrollo Frontend y Backend, y creando proyectos
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
@@ -34,7 +32,7 @@ Actualmente estoy aprendiendo desarrollo Frontend y Backend, y creando proyectos
 
 </p>
 
-## Proyectos
+## Proyectos actuales localmente 
 
 ### DIMENSIONTRES
 🌐 https://dimensiontres.com
