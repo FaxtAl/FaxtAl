@@ -1,4 +1,4 @@
-<h1 align="center">Hola, FaxtAl 👋</h1>
+<h1 align="center">Hola, soy FaxtAl </h1>
 
 <p align="center">
 Estudiante de la Tecnicatura en Programación y desarrollador Full Stack en formación.
