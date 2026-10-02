@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <path fill="#fff" d="M0 120 H2400 V50 Q2250 0 2100 50 T1800 50 T1500 50 T1200 50 T900 50 T600 50 T300 50 T0 50 Z">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
