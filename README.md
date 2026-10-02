@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=220&section=header&text=FaxtAl&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n&descAlignY=58&descSize=20" alt="FaxtAl" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=220&section=header&text=FaxtAl&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n&descAlignY=58&descSize=20" alt="FaxtAl" width="100%">
 </p>
 
 <p align="center">
@@ -40,5 +40,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" alt="" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=120&section=footer" alt="" width="100%">
 </p>
