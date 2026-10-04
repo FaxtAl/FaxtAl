@@ -14,8 +14,7 @@
 
 - Soy de **Villa María, Córdoba, Argentina** 🇦🇷 y estudio la **Tecnicatura en Programación**.
 - Me dedico al **desarrollo front-end** y tengo conocimientos de **bases de datos**.
-- Creo páginas web y tiendas online para negocios locales, con diseño, catálogo, buscador y carrito.
-- Los proyectos de abajo los desarrollé para mis clientes, que son los dueños de cada sitio.
+- Hago webs diseñadas a gusto de cada cliente, para negocios locales.
 
 ## 🛠️ Tecnologías
 
