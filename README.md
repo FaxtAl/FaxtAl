@@ -26,29 +26,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## Proyectos para clientes
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 DimensionTres</h3>
-      <p>Tienda online de hardware, gaming y servicio técnico, desarrollada para su dueño. Catálogo, buscador con sugerencias, carrito, formas de pago online y cuenta de cliente.</p>
-      <p>
-        <a href="https://dimensiontres.com"><img src="https://img.shields.io/badge/Ver_sitio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Ver sitio"></a>
-        <a href="https://github.com/FaxtAl/Dimensiontres"><img src="https://img.shields.io/badge/Código-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 S.E.R</h3>
-      <p>Sitio de una sola página para un espacio de clases y talleres de psicología social, desarrollado para su dueña. Liviano, adaptado a celulares y con contacto directo.</p>
-      <p>
-        <a href="https://comoser.com.ar"><img src="https://img.shields.io/badge/Ver_sitio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Ver sitio"></a>
-        <a href="https://github.com/FaxtAl/SER"><img src="https://img.shields.io/badge/Código-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 📩 Contacto
 
 <p>
