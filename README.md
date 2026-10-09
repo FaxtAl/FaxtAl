@@ -12,7 +12,7 @@
 
 ## Sobre mí
 
-- Soy de **Villa María, Córdoba, Argentina** 🇦🇷 y estudio la **Tecnicatura en Programación**.
+- Soy de **Villa María, Córdoba, Argentina** y estudio la **Tecnicatura en Programación**.
 - Me dedico al **desarrollo front-end** y tengo conocimientos de **bases de datos**.
 - Hago webs diseñadas a gusto de cada cliente, para negocios y emprendimientos.
 
