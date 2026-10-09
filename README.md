@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/FaxtAl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Desarrollador+web+Front-end;Webs+y+tiendas+online+para+negocios+y+emprendimientos;Villa+Mar%C3%ADa%2C+C%C3%B3rdoba%2C+Argentina" alt="Texto animado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Desarrollador+web+Front-end;Webs+y+tiendas+online+para+negocios+y+emprendimientos" alt="Texto animado">
   </a>
 </p>
 
